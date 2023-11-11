@@ -1,20 +1,15 @@
-# sequencingProtocol
+# sequencing&documentationProtocol
 nanopore sequencing protocol
 
-## 1. Experimental Design
-Create a document to take notes throughout the protocol. Remember to add the current date, time started, and name.
-Questions to answer in a seperate document:
-1) What is our research question for this sequencing run?
-2) What steps/portions of the OligoHyb protocol will be completed? Are there any changes in reagents, concentrations, etc.?
-3) What oligopool is being run, if relevant?
-4) Which sequencer will be used? How long did the run last?
+## 1. Experimental Design and Documentation
+Click the link attached below. It will lead to a google form, in which it will ask for the following:
+1) The current date, time started, and name.
+2) What is your research question for this sequencing run?
+3) What steps/portions of the OligoHyb protocol will be completed? Are there any changes in reagents, concentrations, etc.?
+4) What oligopool is being run (if you proceed with hybridization)?
+5) Which sequencer will be used? How long did the run last?
 
-## 2. 
+## 2. Sequencing Procedure
 
-## 3. Create Sub-Folder and upload documents into R&D Shared-Drive
-1) Find the project relevant to the sequencing run (i.e. WGS).
-2) Under the project folder, create a sub-folder titled as so:
-     YY/MM/DD;PROJECT;NAME
-3) Upload the document that contains the experimental design and any notes taken throughout the run.
-
-###Email to Dr. Hill the link to the raw data in Box to be put on server
+## 3. Uploading Data and Documentation
+The Google Forms will automatically be uploaded. However, send Dr. Jonathon Hill an email containing a link to the sequencing raw data in Box so that he can upload it to the server.

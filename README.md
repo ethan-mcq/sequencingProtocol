@@ -23,5 +23,5 @@ If a template cannot be found that matches your EXPERIMENTNAME, these settings a
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/5-basecalling.png?raw=true)
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/6-rawreads.png?raw=true)
 
-## Uploading Data and Documentation
+## Raw Data Access
 Once the run has completed either Jordan Moore or Ethan McQuhae will upload it to the Research & Development Google Drive folder. To access raw data, please refer to the drive to download your data. 

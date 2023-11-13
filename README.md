@@ -1,14 +1,12 @@
 # Sequencing Protocol
-nanopore sequencing protocol
-
-## 1. Experimental Design and Documentation
+## Experimental Design and Documentation
 Click the link attached below. It will lead to a google form, in which it will ask for the following:
 1) The current date, time started, and name.
 2) What is your research question for this sequencing run? (This includes oligo pool if running OligoHyb and other general run info)
 3) Special notes (ie. changes in reagents, concentrations, etc.)
 5) Which sequencer will be used?
 
-## 2. Sequencing Machine Settings
+## Sequencing Machine Settings
 Once 'Start Sequencing' has been selected on the MinKNOW device, you will be met with a screen like this. Fill out the 'Experiment Name' section in the format: YYMMDD-EXPERIMENTNAME-MEMBERNAME. Where experiment name is the type of protocol followed (ie. cfDNAOligoHyb, Whole Genome, or GenomicOligoHyb) and MEMBERNAME is your name. SampleID will always be 1.
 
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/1-name.png?raw=true)
@@ -25,5 +23,5 @@ If a template cannot be found that matches your EXPERIMENTNAME, these settings a
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/5-basecalling.png?raw=true)
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/6-rawreads.png?raw=true)
 
-## 3. Uploading Data and Documentation
+## Uploading Data and Documentation
 The Google Forms will automatically be uploaded. However, send Dr. Jonathon Hill an email containing a link to the sequencing raw data in Box so that he can upload it to the server.

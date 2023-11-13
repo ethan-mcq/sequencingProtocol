@@ -5,6 +5,7 @@ Click the link attached below. It will lead to a google form, in which it will a
 2) What is your research question for this sequencing run? (This includes oligo pool if running OligoHyb and other general run info)
 3) Special notes (ie. changes in reagents, concentrations, etc.)
 5) Which sequencer will be used?
+https://forms.gle/iGLwvJUjCKPqo7Mf8
 
 ## Sequencing Machine Settings
 Once 'Start Sequencing' has been selected on the MinKNOW device, you will be met with a screen like this. Fill out the 'Experiment Name' section in the format: YYMMDD-EXPERIMENTNAME-MEMBERNAME. Where experiment name is the type of protocol followed (ie. cfDNAOligoHyb, Whole Genome, or GenomicOligoHyb) and MEMBERNAME is your name. SampleID will always be 1.

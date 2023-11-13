@@ -10,6 +10,7 @@ Click the link attached below. It will lead to a google form, in which it will a
 5) Which sequencer will be used? How long did the run last?
 
 ## 2. Sequencing Procedure
+![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/1-name.png?raw=true)
 
 ## 3. Uploading Data and Documentation
 The Google Forms will automatically be uploaded. However, send Dr. Jonathon Hill an email containing a link to the sequencing raw data in Box so that he can upload it to the server.

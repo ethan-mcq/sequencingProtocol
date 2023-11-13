@@ -24,4 +24,4 @@ If a template cannot be found that matches your EXPERIMENTNAME, these settings a
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/6-rawreads.png?raw=true)
 
 ## Uploading Data and Documentation
-The Google Forms will automatically be uploaded. However, send Dr. Jonathon Hill an email containing a link to the sequencing raw data in Box so that he can upload it to the server.
+Once the run has completed either Jordan Moore or Ethan McQuhae will upload it to the Research & Development Google Drive folder. To access raw data, please refer to the drive to download your data. 

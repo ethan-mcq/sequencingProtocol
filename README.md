@@ -36,6 +36,8 @@ If your new flow cell has less than this, please discuss with Dr. Hill or Dr. Je
 
 Once sequencing has begun you will notice an array of flashing squares, these are the pores and will show you which ones are sequencing. Click the button that says 'Show more'. On the right side, you want to keep and eye on the number of pores who's state is 'Sequencing'. This number should steadily increase and plateau during the 20 minutes of observation. If for some reason the number beings to decrease or stays at an abnormally low number, please contact Dr. Hill or Dr. Jenkins. 
 
+The picture below shows an example of an abnormally low sequencing rate. There are only 9 pores seqeuncing with 70 classified as 'Adapter'. While there is a large amount of pores available, not much is being sequenced. This is a red flag and should be addressed. 
+
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/7.png?raw=true)
 
 It is most important to stop the run as early as possible if something seems wrong, as you will be able to pull off your library and continue sequencing on a different flow cell if the first one is the problem. 

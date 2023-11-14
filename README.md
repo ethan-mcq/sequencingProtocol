@@ -11,7 +11,7 @@ Click the link attached below. It will lead to a google form, in which it will a
 ## 2. Sequencing Machine Settings
 Once 'Start Sequencing' has been selected on the MinKNOW device, you will be met with a screen like this. Fill out the 'Experiment Name' section in the format: YYMMDD-EXPERIMENTNAME-MEMBERNAME. Where experiment name is the type of protocol followed (ie. cfDNAOligoHyb, Whole Genome, or GenomicOligoHyb) and MEMBERNAME is your name. SampleID will always be 1.
 
-![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/1-name.png?raw=true)
+![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/1-1-name.png?raw=true)
 
 Once you have filled out those sections, you will select the 'Load settings from template' button to select the correct run settings. Click the template name that matches your EXPERIMENTNAME that you chose in the previous step. Once you select the correct template, select 'Load', then 'Skip to final review'. Here you can tehn begin sequencing. 
 

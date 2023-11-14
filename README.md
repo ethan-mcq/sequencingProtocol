@@ -13,7 +13,7 @@ Once 'Start Sequencing' has been selected on the MinKNOW device, you will be met
 
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/1-name.png?raw=true)
 
-Once you have filled out those sections, you will select the 'Load settings from template' button to select the correct run settings. Click the template name that matches your EXPERIMENTNAME that you chose in the previous step. 
+Once you have filled out those sections, you will select the 'Load settings from template' button to select the correct run settings. Click the template name that matches your EXPERIMENTNAME that you chose in the previous step. Once you select the correct template, select 'Load', then 'Skip to final review'. Here you can tehn begin sequencing. 
 
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/2-template.png?raw=true)
 
@@ -25,5 +25,12 @@ If a template cannot be found that matches your EXPERIMENTNAME, these settings a
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/5-basecalling.png?raw=true)
 ![alt text](https://github.com/ethan-mcq/sequencingProtocol/blob/main/steps/6-rawreads.png?raw=true)
 
-## 4. Raw Data Access
+## 4. Run Monitoring
+It is required that you monitor your run for at least 20 minutes after beginning. An initial 'Pore Check' will be carried out on the flow cell to check for viable pores. You will aim to have the following amount of pores on new flow cells:
+| Flow cell | Min # Pores |
+| --------- | ---------- |
+| PromethION |  3000 |
+| MinION |  900 |
+| Flongle |  65 |
+## 5. Raw Data Access
 Once the run has completed either Jordan Moore or Ethan McQuhae will upload it to the Research & Development Google Drive folder. To access raw data, please refer to the drive to download your data. 

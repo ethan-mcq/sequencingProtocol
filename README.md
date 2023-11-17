@@ -3,7 +3,7 @@
 Click the link attached below. It will lead to a google form, in which it will ask for the following:
 1) The current date, time started, and name.
 2) What is your research question for this sequencing run? (This includes oligo pool if running OligoHyb and other general run info)
-3) Special notes (ie. changes in reagents, concentrations, etc.)
+3) Special notes (ie. barcodes used, changes in reagents, concentrations, etc.)
 5) Which sequencer will be used?
 
 ### Click on this [link](https://forms.gle/iGLwvJUjCKPqo7Mf8)
